@@ -12,3 +12,7 @@ scripts/__pycache__
 offsets.ini
 generatedrepoints
 *.idea
+*.ini
+.gitignore
+Pokemon Definition Files.txt
+*.pal
